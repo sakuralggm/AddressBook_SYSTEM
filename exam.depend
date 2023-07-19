@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1657869641 source:c:\users\administrator\desktop\exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<ctype.h>
+
+1657879236 source:d:\exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<ctype.h>
+
